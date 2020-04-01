@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jholverh.github.io/viajes-perdidos/blog</id>
-    <title>Vision BRT - Viajes perdidos Blog</title>
+    <title>Vision BRT Blog</title>
     <updated>2017-10-24T06:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jholverh.github.io/viajes-perdidos/blog"/>
-    <subtitle>The best place to stay up-to-date with the latest Vision BRT - Viajes perdidos news and events.</subtitle>
+    <subtitle>The best place to stay up-to-date with the latest Vision BRT news and events.</subtitle>
     <logo>https://jholverh.github.io/viajes-perdidos/img/tmsa1.png</logo>
     <rights>Copyright © 2020 TRANSMILENIO S.A.</rights>
     <entry>
